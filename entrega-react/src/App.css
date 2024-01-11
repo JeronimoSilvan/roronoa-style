@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-image: url(../src/assets/descarga.jpg); 
+  
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.titulo {
+  padding-bottom: 3rem;
+}
+
+.nav {
+  display: flex;
+  color: whitesmoke;
+  cursor: pointer;
+  justify-content: space-around;
+  gap: 1rem;
+  align-items: center;
+}
+
+.logo {
+  height: 100px;
+  border-radius: 3rem;
+}
+
+footer {
+  color: whitesmoke;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  
+}
