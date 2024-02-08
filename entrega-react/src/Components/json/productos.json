@@ -1,0 +1,83 @@
+[
+    {
+        "id": "camisa-1",
+        "titulo": "Camisa 1",
+        "descripcion": "Camisa manga corta mostaza",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/camisa1.jpg",
+        "categoria": "camisas",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "camisa-2",
+        "titulo": "Camisa 2",
+        "descripcion": "Camisa manga corta naranja",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/camisa5.jpg",
+        "categoria": "camisas",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "camisa-3",
+        "titulo": "Camisa 3",
+        "descripcion": "Camisa manga corta lila",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/camisa3.jpg",
+        "categoria": "camisas",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "pantalon-1",
+        "titulo": "Pantalon 1",
+        "descripcion": "Pantalon tipo cargo color gris",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/cargo1.jpg",
+        "categoria": "pantalones",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "pantalon-2",
+        "titulo": "Pantalon 2",
+        "descripcion": "Pantalon tipo cargo color negro",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/cargo2.jpg",
+        "categoria": "pantalones",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "pantalon-3",
+        "titulo": "Pantalon 3",
+        "descripcion": "Pantalon tipo cargo color verde oscuro",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/cargo3.jpg",
+        "categoria": "pantalones",
+        "stock": 10,
+        "precio": 7000
+    },
+    {
+        "id": "zapatillas-1",
+        "titulo": "Zapatillas 1",
+        "descripcion": "Air Jordan edición blanco y celeste",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/zapatillas1.jpg",
+        "categoria": "zapatillas",
+        "stock": 10,
+        "precio": 10000
+    },
+    {
+        "id": "zapatillas-2",
+        "titulo": "Zapatillas 2",
+        "descripcion": "Air Jordan edición blanco y morado",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/zapatillas2.jpg",
+        "categoria": "zapatillas",
+        "stock": 10,
+        "precio": 10000
+    },
+    {
+        "id": "zapatillas-3",
+        "titulo": "Zapatillas 3",
+        "descripcion": "Air Jordan edición blanco y verde",
+        "imagen": "https://jeronimosilvan.github.io/entrega-final/img/zapatillas3.jpg",
+        "categoria": "zapatillas",
+        "stock": 10,
+        "precio": 10000
+    }
+]

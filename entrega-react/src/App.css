@@ -1,38 +1,52 @@
 * {
   margin: 0;
   padding: 0;
-  background-image: url(../src/assets/descarga.jpg); 
+  background-image: url(../src/assets/descarga.jpg);
   
 }
 
 body {
   background-color: #f0f0f0;
+  overflow-x: hidden;
+  color: whitesmoke;
+  height: 100%;
 }
 
 ul {
   list-style-type: none;
 }
 
-a {
-  text-decoration: none;
+.nav-link {
+  color: inherit;
 }
 
 .titulo {
-  padding-bottom: 3rem;
+  color: whitesmoke;
 }
 
 .nav {
-  display: flex;
+
   color: whitesmoke;
   cursor: pointer;
-  justify-content: space-around;
-  gap: 1rem;
-  align-items: center;
 }
 
 .logo {
   height: 100px;
   border-radius: 3rem;
+}
+
+.card-text {
+  color: whitesmoke;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 1rem;
+}
+
+.container-productos {
+  min-height: 100%;
+  position: relative;
 }
 
 footer {
@@ -41,5 +55,5 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  
+
 }
