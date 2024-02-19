@@ -1,6 +1,6 @@
 import { useContext, useState } from "react";
 import { CartContext } from "./context/CartContext";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import { getFirestore, collection, addDoc } from "firebase/firestore";
 
 
@@ -10,7 +10,7 @@ const Checkout = () => {
     const [email, setEmail] = useState();
     const [telefono, setTelefono] = useState();
     const [orderId, setOrderId] = useState();
-    const { cart, clear, CantTotalProductos, SumaTotalProductos } = useContext(CartContext)
+    const { cart, clear, SumaTotalProductos } = useContext(CartContext)
 
   
 
